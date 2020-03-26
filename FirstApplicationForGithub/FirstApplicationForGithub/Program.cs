@@ -21,6 +21,7 @@ namespace FirstApplicationForGithub
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    //Hello Abdul
                 });
     }
 }
